@@ -27,7 +27,7 @@
 
 [The number of groups contain in n = 1024 is 49487367289, but not 49487365422](https://www.tandfonline.com/doi/full/10.1080/00927872.2021.2006680)
 
-[Communications in Algebra presents high quality papers of original research in the field of algebra. Articles from related research areas that have a significant bearing on algebra might also be published.](https://www.tandfonline.com/journals/lagb20)
+[Communications in Algebra presents high quality papers of original research in the field of algebra.](https://www.tandfonline.com/journals/lagb20)
 
 ### GAP
 
