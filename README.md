@@ -15,7 +15,7 @@
 - Input: Given a representation of a group, could be reducible or irreducible.
 
 
-- Output: Boolean value that tells the reducibility. How many representation it breaks into.
+- Output: Boolean value that tells the reducibility and how many representation it breaks into.
 
 
 
