@@ -6,7 +6,7 @@
 - Input: group order n, a positive integer.
 
 
-- Output: Discrete groups with order n, up to an isomorphism.
+- Output: Discrete groups with order n, up to isomorphisms.
 
 
 
