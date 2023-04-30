@@ -10,7 +10,6 @@
 
 
 
-
 2. **Check Reduciblity of a Given Representation**
 
 - Input: Given a representation of a group, could be reducible or irreducible.
@@ -19,8 +18,17 @@
 - Output: Boolean value that tells the reducibility. How many representation it breaks into.
 
 
-Tools availible: Group Algorithmic Computation (GAP). Further information about this computing language based on group theory will be elaborated here.
+
+***Some Useful Resources
+
+[GAP official tutorial](https://docs.gap-system.org/doc/tut/chap0_mj.html)<br>
+
+[Ken Brown Notes on Computational Group Theory](https://pi.math.cornell.edu/~kbrown/notes.html)<br>
 
 
 ### GAP
+
+Tools availible: Group Algorithmic Computation (GAP). Further information about this computing language based on group theory will be elaborated here.<br>
+
+
 
