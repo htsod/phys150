@@ -19,7 +19,7 @@
 
 
 
-***Some Useful Resources***
+*Some Useful Resources*
 
 [GAP official tutorial](https://docs.gap-system.org/doc/tut/chap0_mj.html)<br>
 
