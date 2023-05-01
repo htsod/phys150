@@ -21,6 +21,8 @@
 
 *Some Useful Resources*
 
+[A millennium project constructing small groups](https://www.math.auckland.ac.nz/~obrien/research/2000.pdf)
+
 [GAP official tutorial](https://docs.gap-system.org/doc/tut/chap0_mj.html)<br>
 
 [Ken Brown Notes on Computational Group Theory](https://pi.math.cornell.edu/~kbrown/notes.html)<br>
